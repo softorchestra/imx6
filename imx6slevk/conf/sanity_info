@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/aland/src/imx6/imx6slevk/tmp
+SSTATE_DIR /home/aland/src/imx6/imx6slevk/sstate-cache
