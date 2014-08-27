@@ -1,6 +1,3 @@
-[submodule "sources/base"]
-	path = sources/base
-	url = /home/aland/src/imx6/sources/base/
 [submodule "sources/meta-fsl-arm"]
 	path = sources/meta-fsl-arm
 	url = /home/aland/src/imx6/sources/meta-fsl-arm
